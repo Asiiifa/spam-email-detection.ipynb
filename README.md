@@ -14,7 +14,7 @@ Build a machine learning model that can accurately classify SMS messages as **sp
   - `v2`: Message text
 - The dataset contains some unnecessary unnamed columns that are dropped during preprocessing.
 
-## 🛠️ Project Workflow
+## 🛠️ Project  Workflow
 
 1. **Data Loading**:
    - Read the CSV file using pandas.
